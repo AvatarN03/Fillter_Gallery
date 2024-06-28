@@ -12,6 +12,6 @@ The Pics of the Project: -
 
 -----------------------------------------------------------------------------------------------------------------------
 
-The Preview of the Website: - 
+The Preview of the Website: - https://avatarn03.github.io/Fillter_Gallery/
 
 
