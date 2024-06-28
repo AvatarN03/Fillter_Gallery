@@ -23,6 +23,11 @@
                         }
                     }
                 })
+
+                buttons.forEach(btn => {
+                    btn.style.color = '';
+                });
+                button.style.color = '#d661de';
         })
     })
 })();
